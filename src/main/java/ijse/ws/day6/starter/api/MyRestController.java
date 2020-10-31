@@ -1,4 +1,4 @@
-package ijse.ws.day6.starter;
+package ijse.ws.day6.starter.api;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
