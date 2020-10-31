@@ -7,6 +7,7 @@ public class Message {
     private String message;
     private String sentTime;
 
+
     public String getSender() {
         return sender;
     }
